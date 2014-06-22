@@ -1,0 +1,8 @@
+c:\users\ram\documents\visual studio 2010\Projects\Testproject\Testproject\bin\Testproject.dll
+c:\users\ram\documents\visual studio 2010\Projects\Testproject\Testproject\bin\Testproject.pdb
+c:\users\ram\documents\visual studio 2010\Projects\Testproject\Testproject\bin\Testproject.xml
+c:\users\ram\documents\visual studio 2010\Projects\Testproject\Testproject\obj\Debug\Testproject.Resources.resources
+c:\users\ram\documents\visual studio 2010\Projects\Testproject\Testproject\obj\Debug\Testproject.vbproj.GenerateResource.Cache
+c:\users\ram\documents\visual studio 2010\Projects\Testproject\Testproject\obj\Debug\Testproject.dll
+c:\users\ram\documents\visual studio 2010\Projects\Testproject\Testproject\obj\Debug\Testproject.xml
+c:\users\ram\documents\visual studio 2010\Projects\Testproject\Testproject\obj\Debug\Testproject.pdb
